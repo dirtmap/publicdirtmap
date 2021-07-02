@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["ELYEJLES28.-DIRTMAP.DirtMap.com"],
+        "components": [
+          {
+            "/": "/link/*",
+            "comment": "Universal links"
+          },
+        ]
+      }
+    ]
+  }
+}
